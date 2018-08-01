@@ -1,3 +1,3 @@
 # hello-world
-hello-world-testmas
+hello-world-test
 zjytest
